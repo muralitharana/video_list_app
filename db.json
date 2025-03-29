@@ -1,0 +1,73 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "username": "UserA",
+      "description": "An exciting journey through the mountains.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 2,
+      "username": "UserB",
+      "description": "A day at the beach qith friends.",
+      "imageUrl": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "username": "UserC",
+      "description": "Cooking a delicious pasta dish.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 4,
+      "username": "UserD",
+      "description": "Exploring the city at night.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 5,
+      "username": "UserE",
+      "description": "A thrilling rollercoaster ride.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 6,
+      "username": "UserF",
+      "description": "Yoga for beginners.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 7,
+      "username": "UserG",
+      "description": "How to paint a beautiful landscape.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 8,
+      "username": "UserH",
+      "description": "Gardening tips for small spaces.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 9,
+      "username": "UserI",
+      "description": "Fitness routine for a healthier lifestyle.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 10,
+      "username": "UserJ",
+      "description": "Exploring ancient ruins.",
+      "imageUrl": "https://picsum.photos/200/300",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp40"
+    }
+  ]
+}
