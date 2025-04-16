@@ -10,5 +10,5 @@ Android and iOS setup mobile development setup
 4. npm run android
 5. npm run iOS
 
-Uploading Simulator Screen Recording - iPhone 16 Pro - 2025-04-16 at 22.28.27 (1).mp4…
+https://github.com/user-attachments/assets/c66787ab-233d-4476-a522-39652c14187b
 
